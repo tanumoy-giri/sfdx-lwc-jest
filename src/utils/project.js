@@ -38,6 +38,5 @@ function getModulePaths() {
 
 module.exports = {
     PROJECT_ROOT,
-    getSfdxProjectJson,
     getModulePaths,
 };
