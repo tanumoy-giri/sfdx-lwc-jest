@@ -16,4 +16,5 @@ export default class Alert extends LightningElement {
     @api message;
     @api theme;
     @api variant;
+    
 }
